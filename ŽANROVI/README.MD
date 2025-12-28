@@ -1,0 +1,29 @@
+# FANTASTKA
+
+---
+
+# ZNANSTVENA FANTASTKA
+
+---
+
+# POVIJESNA FIKCIJA
+
+---
+
+# LJUBIĆ
+
+---
+
+# DRAMA
+
+---
+
+# FILOZOFIJA
+
+---
+
+# DISTOPIJA
+
+---
+
+# EUDUKATIVNI SADRŽAJ
