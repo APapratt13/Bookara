@@ -1,1 +1,1 @@
-- [The Inheritance games - jennifer Lynn Barnes](../../AUTORI/Jennifer%20Lynn%20Barnes/The%20Inheritacne%20Games/)
+- [The Inheritance games - Jennifer Lynn Barnes](../../AUTORI/Jennifer%20Lynn%20Barnes/The%20Inheritacne%20Games/)
