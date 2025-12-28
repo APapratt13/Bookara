@@ -12,6 +12,6 @@ Kao bezvremenska kategorija, realizam označava:
 ---
 
 # Fjodor Mihajlovič Dostojevski
-[Zločin i kazna](../../AUTORI/Fjodor%20mihajlovič%20Dostojevski/)
-[Idiot](../../AUTORI/Fjodor%20mihajlovič%20Dostojevski/)
+[Zločin i kazna](../../AUTORI/Fjodor%20mihajlovič%20Dostojevski/),
+[Idiot](../../AUTORI/Fjodor%20mihajlovič%20Dostojevski/),
 [Braća Karamazovi](../../AUTORI/Fjodor%20mihajlovič%20Dostojevski/)
