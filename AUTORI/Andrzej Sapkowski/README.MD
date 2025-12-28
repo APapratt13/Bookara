@@ -1,65 +1,22 @@
-# Saga o Vješcu – Andrzej Sapkowski
+# Andrzej Sapkowski
 
-**Godina prvog izdanja:** 1992
-**Jezik:** HRV / SRB
-**Format:** EPUB
-**Status:** read
-
+poljski pisac
 ---
 
 ## Žanr
 - Mračna fantastika
-- Drama
-- Akcija
-- Misteriozno
+- SciFi
+- povijesna fikcija
 
-## 📚 Knjige u sagi
+## 📚O piscu
 
-### Zbirke priča
-1. **Posljednja želja** (*The Last Wish*, 1993)  
-   - Zbirka kratkih priča koja uvodi Geralta, njegov svijet i ključne likove.  
-   - **Goodreads rating:** ★★★★☆ (4.14)  
+Andrzej Sapkowski, rođen 21. lipnja 1948. u Łódźu, poljski je pisac fantastike i znanstvene fantastike. Sapkowski je studirao ekonomiju, a prije nego što se posvetio pisanju, radio je kao viši prodajni predstavnik za tvrtku za vanjsku trgovinu. Njegova prva kratka priča, Vještac (Wiedźmin), objavljena je u Fantastyki, vodećem poljskom književnom časopisu za fantastiku, 1986. godine i bila je iznimno uspješna i kod čitatelja i kod kritičara. Sapkowski je stvorio ciklus priča temeljenih na svijetu Vješca, koji se sastoji od tri zbirke kratkih priča i pet romana. Ovaj ciklus i njegova mnoga druga djela učinili su ga jednim od najpoznatijih autora fantastike u Poljskoj 1990-ih.
 
-2. **Mač sudbine** (*Sword of Destiny*, 1992)  
-   - Druga zbirka priča koja postavlja temelje za glavnu sagu i sudbinu Ciri.  
-   - **Goodreads rating:** ★★★★☆ (4.27)  
+Glavni lik The Witchera (alternativni prijevod: Vještac) je Geralt, mutant ubojica koji je od djetinjstva obučen za lov i uništavanje čudovišta. Geralt postoji u dvosmislenom moralnom svemiru, ali uspijeva održati vlastiti koherentni etički kodeks. Istovremeno ciničan i plemenit, Geralta su uspoređivali s karakterističnim likom Raymonda Chandlera, Philipom Marloweom. Svijet u kojem se odvijaju ove avanture uvelike je pod utjecajem slavenske mitologije.
 
-### Romani
-3. **Vilenjačka krv** (*Blood of Elves*, 1994)   ★★★★☆ (4.10)  
-4. **Vrijeme prijezira** (*Time of Contempt*, 1995)   ★★★★☆ (4.16)  
-5. **Vatreno krštenje** (*Baptism of Fire*, 1996)   ★★★★☆ (4.26)  
-6. **Lastavičja kula** (*The Tower of the Swallow*, 1997)   ★★★★☆ (4.22)  
-7. **Gospodarica jezera** (*The Lady of the Lake*, 1999)   ★★★★☆ (4.27)  
+Sapkowski je osvojio pet nagrada Zajdel, uključujući tri za kratke priče "Mniejsze zło" (Manje zlo) (1990), "Miecz przeznaczenia" (Mač sudbine) (1992) i "W leju po bombie" (U krateru od bombe) (1993), i dvije za romane "Krew elfów" (Krv vilenjaka) (1994) i "Narrenturm" (2002). Također je osvojio španjolsku nagradu Ignotus, za najbolju antologiju, za The Last Wish 2003. godine, i za "Muzykanci" (Glazbenici), najbolju stranu kratku priču, iste godine.
+Godine 1997. Sapkowski je osvojio prestižnu nagradu Polityka's Passport, koja se dodjeljuje godišnje umjetnicima koji imaju velike izglede za međunarodni uspjeh.
 
-### Epilog
-8. **Sezona oluja** (*Season of Storms*, 2013)   ★★★★☆ (3.97)
-9. **Raskrižje gavrana** (*The Crossroad of the Ravens, 2024)    ★★★★☆ (4.04)
-
-> Redoslijed čitanja: preporučuje se početi s zbirkama priča, a zatim pratiti romane po kronološkom redu.  
-
----
-
-## 🌍 Svijet Vješca
-
-- **Glavni lik**: Geralt od Rivije, Witcher (Vještac) – mutirani lovac na čudovišta.  
-- **Ključni likovi**: Cirila, Jennefer(Yennefer), Neven (Jaskier, Dandelion), Triss Merigold.  
-- **Teme**: sudbina, moral, politika, magija, rat i ljudska priroda.  
-
----
-
-## ⚔️ Zašto čitati
-
-- Fantastična kombinacija akcije, politike i filozofije.  
-- Likovi su kompleksni i moralno nijansirani.  
-- Idealno za ljubitelje mračnog fantasy svijeta i epskih saga.  
-
----
-
-## 📖 Dodatni resursi
-
-- [Wikipedia: Witcher series](https://en.wikipedia.org/wiki/The_Witcher)  
-- [Andrzej Sapkowski](https://en.wikipedia.org/wiki/Andrzej_Sapkowski)  
-- Fan-forumi i diskusije za teorije i analize likova.  
-
----
-
+Godine 2001. u Poljskoj i međunarodno je objavljena televizijska serija temeljena na ciklusu o Vješcu, pod nazivom Wiedźmin (The Hexer). Film istog naziva sastavljen je od isječaka televizijske serije, ali oba su doživjela kritički i komercijalni neuspjeh.
+Sapkowskijeve knjige prevedene su na češki, ruski, litavski, njemački, španjolski, francuski, ukrajinski i portugalski. Engleski prijevod zbirke kratkih priča The Last Wish objavio je Gollancz 2007. godine.
+Poljski izdavač igara, CD Projekt, stvorio je računalnu igru igranja uloga temeljenu na ovom svemiru, pod nazivom The Witcher, koja je objavljena u listopadu 2007. Postoji i mobilna verzija igre koju je stvorio Breakpoint Games, a objavljuje je Hands-On Mobile u zapadnoj Europi, Latinskoj Americi i Azijsko-pacifičkoj regiji.
