@@ -1,1 +1,1 @@
-[Saga o vješcu](../../AUTORI/Saga%20o%20vješcu/)
+[Saga o vješcu](../../AUTORI/Andrzej%20Sapkowski/Saga%20o%20vješcu/)
