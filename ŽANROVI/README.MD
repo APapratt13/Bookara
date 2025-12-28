@@ -1,10 +1,6 @@
 # ZNANSTVENA FANTASTKA
 ---
 
-# LJUBIĆ
-
----
-
 # DRAMA
 
 ---
