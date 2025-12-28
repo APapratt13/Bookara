@@ -33,7 +33,7 @@
 
 ### Epilog
 8. **Sezona oluja** (*Season of Storms*, 2013)   ★★★★☆ (3.97)
-9. **Raskrižje vrana** (*The Crossroad of the Ravens, 2024)    ★★★★☆ (4.04)
+9. **Raskrižje gavrana** (*The Crossroad of the Ravens, 2024)    ★★★★☆ (4.04)
 
 > Redoslijed čitanja: preporučuje se početi s zbirkama priča, a zatim pratiti romane po kronološkom redu.  
 
