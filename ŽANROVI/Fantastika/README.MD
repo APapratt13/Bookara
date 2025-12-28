@@ -1,1 +1,1 @@
-[Saga o vješcu](../../AUTORI/Saga o vješcu/)
+[Saga o vješcu](../../autori/saga o vješcu/)
