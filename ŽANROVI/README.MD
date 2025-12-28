@@ -1,15 +1,7 @@
 # ZNANSTVENA FANTASTKA
 ---
 
-# DRAMA
-
----
-
 # FILOZOFIJA
-
----
-
-# DISTOPIJA
 
 ---
 
