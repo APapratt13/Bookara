@@ -1,0 +1,2 @@
+Elena je španjolska spisateljica, samopriznata beznadna romantičarka i ponosna sakupljačica knjiga. Sada je i autorica međunarodnog bestselera i uskoro ekraniziranog romana The Spanish Love Deception; te trenutačnih bestselera New York Timesa The American Roommate Experiment i The Long Game. Njezine se knjige prevode na preko 30 jezika – što je ludo, ako je pitate.
+Nada se da će njezine priče učiniti da vam srce malo zaigra, dlanovi se malo znoje, a obrazi zarumene u onu ružičastu boju zbog koje drugi ljudi žele zaviriti na stranicu koju čitate.
