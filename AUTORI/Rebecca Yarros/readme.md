@@ -1,0 +1,1 @@
+** Rebecca Yarros** (born April 13, 1981) is an American author. She is best known for the Empyrean fantasy book series, which will be adapted into a television series with Amazon; Yarros will serve as a non-writing executive producer. Yarros graduated from Troy University, where she studied European history and English.
