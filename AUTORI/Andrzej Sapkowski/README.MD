@@ -1,7 +1,7 @@
 # Saga o Vješcu – Andrzej Sapkowski
 
-**Godina prvog izdanja: 1992
-**Jezik: HRV / SRB
+**Godina prvog izdanja:** 1992
+**Jezik:** HRV / SRB
 **Format:** EPUB
 **Status:** read
 
