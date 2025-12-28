@@ -31,6 +31,10 @@
 6. **Lastavičja kula** (*The Tower of the Swallow*, 1997)   ★★★★☆ (4.22)  
 7. **Gospodarica jezera** (*The Lady of the Lake*, 1999)   ★★★★☆ (4.27)  
 
+### Epilog
+8. **Sezona oluja** (*Season of Storms*, 2013)   ★★★★☆ (3.97)
+9. **Raskrižje vrana** (*The Crossroad of the Ravens, 2024)    ★★★★☆ (4.04)
+
 > Redoslijed čitanja: preporučuje se početi s zbirkama priča, a zatim pratiti romane po kronološkom redu.  
 
 ---
