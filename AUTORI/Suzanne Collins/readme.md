@@ -1,0 +1,1 @@
+**Suzanne Collins** Suzanne Collins (born August 10, 1962)[2] is an American author and television writer who is best known as the author of the young adult dystopian book series The Hunger Games. She is also the author of the children's fantasy series The Underland Chronicles.
