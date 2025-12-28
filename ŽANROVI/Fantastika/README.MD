@@ -1,3 +1,3 @@
 - [Saga o vješcu - Andrzej Sapkowski](../../AUTORI/Andrzej%20Sapkowski/Saga%20o%20vješcu/)
 - [Poor Things - Alasdair Gray](../../AUTORI/Alasdair%20Gray/)
-- [The Empyrean trilogy](../../AUTORI/Rebecca%20Yarros/The%20Empyrean)
+- [The Empyrean trilogy - Rebecca Yarros](../../AUTORI/Rebecca%20Yarros/The%20Empyrean)
