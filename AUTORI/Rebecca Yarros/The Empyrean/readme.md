@@ -22,4 +22,9 @@
 ## Kratki opis
 Twenty-year-old Violet Sorrengail was supposed to enter the Scribe Quadrant, living a quiet life among books and history. Now, the commanding general—also known as her tough-as-talons mother—has ordered Violet to join the hundreds of candidates striving to become the elite of Navarre: dragon riders.
 
+---
+## Poredak knjiga
+1. **Fourth Wing** ★★★★☆ (4.57)
+2. **Iron Flame** ★★★★☆ (4.36)
+3. **Onyx Storm** ★★★★☆ (4.21) 
 
