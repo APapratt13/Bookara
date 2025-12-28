@@ -1,2 +1,2 @@
-[Saga o vješcu](../../AUTORI/Andrzej%20Sapkowski/Saga%20o%20vješcu/)
-[Poor Tihngs](../../AUTORI/Alasdair%20Gray/)
+- [Saga o vješcu](../../AUTORI/Andrzej%20Sapkowski/Saga%20o%20vješcu/)
+- [Poor Tihngs](../../AUTORI/Alasdair%20Gray/)
