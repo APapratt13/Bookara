@@ -1,1 +1,2 @@
-[The Long Game - Elena Armas](../../AUTORI/Elena%20Armas/The%20Green%20Oak/)
+- [The Long Game - Elena Armas](../../AUTORI/Elena%20Armas/The%20Green%20Oak/)
+- [The Empyrean trilogy - Rebecca Yarros](../../AUTORI/Rebecca%20Yarros/The%20Empyrean)
