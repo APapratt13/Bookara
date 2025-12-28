@@ -8,10 +8,10 @@
 ---
 
 ## Žanr
---- Mračna fantastika
---- Drama
---- Akcija
---- Misteriozno
+- Mračna fantastika
+- Drama
+- Akcija
+- Misteriozno
 
 ## 📚 Knjige u sagi
 
