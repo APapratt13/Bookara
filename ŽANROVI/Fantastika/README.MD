@@ -2,4 +2,4 @@
 - [Poor Things - Alasdair Gray](../../AUTORI/Alasdair%20Gray/)
 - [The Empyrean trilogy - Rebecca Yarros](../../AUTORI/Rebecca%20Yarros/The%20Empyrean)
 - [The Bloodswon Saga - John Gwynne](../../AUTORI/John%20Gwynne/Bloodsworn)
-- [Zimska noć trilogija - Katherine Arden](../../AUTORI/Katherine%20Arden/Zimska%20noć)
+- [Zimska noć trilogija - Katherine Arden](../../AUTORI/Katherine%20Arden/Zimska%20noć%20trilogija)
