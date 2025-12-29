@@ -2,9 +2,9 @@
 
 * **Autor:** Rick Riordan
 * **Godina prvog izdanja:** 2005.
-* **Jezik:** engleski
-* **Format:** EPUB / PDF / Audiobook
-* **Status:** to-read / reading / read
+* **Jezik:** HRV / ENG
+* **Format:** EPUB 
+* **Status:** to-read
 * **Goodreads rating:** ★★★★☆ (≈4.3)
 
 ---
