@@ -1,1 +1,2 @@
 - [The Inheritance games - Jennifer Lynn Barnes](../../AUTORI/Jennifer%20Lynn%20Barnes/The%20Inheritacne%20Games/)
+- [Thursday Murder Club - Richard Osman](../../AUTORI/Richard%20Osman/Thursday%20Murder%20Club)
