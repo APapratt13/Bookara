@@ -1,11 +1,11 @@
 # Kronike Kraljosjeka
 
-**Autor:** Patrick Rothfuss
-**Godina prvog izdanja:**  2007
-**Jezik:**  
-**Format:** EPUB / PDF / Audiobook  
-**Status:** to-read / reading / read  
-**Goodreads rating:** ★★★★☆ (4.55)  
+- **Autor:** Patrick Rothfuss
+- **Godina prvog izdanja:**  2007
+- **Jezik:**  
+- **Format:** EPUB
+- **Status:** read  
+- **Goodreads rating:** ★★★★☆ (4.55)  
 
 ---
 
