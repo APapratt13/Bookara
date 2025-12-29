@@ -1,1 +1,1 @@
-[Poor Things](../../AUTORI/Alasdair%20Gray/)
+[Poor Things - Alasdair Gray](../../AUTORI/Alasdair%20Gray/)
