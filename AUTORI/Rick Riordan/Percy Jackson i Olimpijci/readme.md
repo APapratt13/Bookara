@@ -2,7 +2,7 @@
 
 * **Autor:** Rick Riordan
 * **Godina prvog izdanja:** 2005.
-* **Jezik:** HRV / ENG
+* **Jezik:** HRV 
 * **Format:** EPUB 
 * **Status:** to-read
 * **Goodreads rating:** ★★★★☆ (≈4.3)
