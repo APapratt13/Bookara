@@ -13,3 +13,6 @@
 
 ## Nordijska mitologija
 - [The Bloodswon Saga - John Gwynne](../../AUTORI/John%20Gwynne/Bloodsworn)
+
+## Grčka mitologija
+- [Percy Jackson i Olimpijci - Rick Riordan](../../AUTORI/Rick%20Riordan/Percy%20Jackson%20i%20Olimpijci)
