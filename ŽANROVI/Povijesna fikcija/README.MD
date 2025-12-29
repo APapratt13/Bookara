@@ -1,1 +1,2 @@
-[Poor Things - Alasdair Gray](../../AUTORI/Alasdair%20Gray/)
+- [Poor Things - Alasdair Gray](../../AUTORI/Alasdair%20Gray/)
+- [Zimska noć trilogija - Katherine Arden](../../AUTORI/Katherine%20Arden/Zimska%20noć%20trilogija)
