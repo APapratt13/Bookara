@@ -1,11 +1,11 @@
 # Naslov knjige
 
-**Autor:** John Gwynne  
-**Godina prvog izdanja:**  2021
-**Jezik:**  ENG
-**Format:** EPUB  
-**Status:** to-read
-**Goodreads rating:** ★★★★☆ (4.31)  
+- **Autor:** John Gwynne  
+- **Godina prvog izdanja:**  2021
+- **Jezik:**  ENG
+- **Format:** EPUB  
+- **Status:** to-read
+- **Goodreads rating:** ★★★★☆ (4.31)  
 
 ---
 
