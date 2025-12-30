@@ -16,5 +16,5 @@ Ovdje su knjige organizirane po autorima, a dodatno i po žanrovima.
 
 ## 🗂️ Žanrovi
 - [Distopija](ŽANROVI/Distopija)
-- [Fantastika](žANROVI/Fantastika)
+- [Fantastika](ŽANROVI/Fantastika)
 
