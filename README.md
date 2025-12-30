@@ -11,11 +11,10 @@ Ovdje su knjige organizirane po autorima, a dodatno i po žanrovima.
 - Ako samo želite nešto dobro → pogledajte preporuke
 
 ## 📖 Autori
-- [Margaret Atwood](Atwood_Margaret/)
-- [J.R.R. Tolkien](Tolkien_JRR/)
+- [Andrzej Sapkowski](AUTORI/Andrzej%20Sapkowski)
+- [Fjodor M. Dostojevski](AUTORI/Fjodor%20Mihajlovič%20Dostojevski)
 
 ## 🗂️ Žanrovi
-- [Distopija](genres/dystopia.md)
-- [Fantastika](genres/fantasy.md)
-- [Filozofija](genres/philosophy.md)
+- [Distopija](ŽANROVI/Distopija)
+- [Fantastika](žANROVI/Fantastika)
 
