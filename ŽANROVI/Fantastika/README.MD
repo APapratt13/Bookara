@@ -5,6 +5,7 @@
 - [The Empyrean trilogy - Rebecca Yarros](../../AUTORI/Rebecca%20Yarros/The%20Empyrean)
 - [Kronike Kraljosjeka - Patrick Rothfuss](../../AUTORI/Patrick%20Rothfuss/Kronike%20Kraljosjeka)
 - [Vampirska akademija - Richelle Mead](../../AUTORI/Richelle%20Mead/Vampirska%20akademija)
+- [Magisterium- Holly Black & Cassandra Clare](../../AUTORI/Holly%20Black&%20Cassandra%20Clare/Magisterium)
 
 ## Slavenska mitologija
 - [Saga o vješcu - Andrzej Sapkowski](../../AUTORI/Andrzej%20Sapkowski/Saga%20o%20vješcu/)
