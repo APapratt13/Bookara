@@ -8,6 +8,7 @@
 - [Magisterium- Holly Black & Cassandra Clare](../../AUTORI/Holly%20Black%20&%20Cassandra%20Clare/Magisterium)
 - [Hekatina škola - Rachel Hawkins](../../AUTORI/Rachel%20Hawkins/Hekatina%20škola)
 - [Njegova mračna građa - Phillip Pullman](../../AUTORI/Phillip%20Pullman/Njegova%20mračna%20građa)
+- [Temerarie - Naomi Novik](../../AUTORI/naomi%20Novik/Temerarie)
 
 ## Slavenska mitologija
 - [Saga o vješcu - Andrzej Sapkowski](../../AUTORI/Andrzej%20Sapkowski/Saga%20o%20vješcu/)
