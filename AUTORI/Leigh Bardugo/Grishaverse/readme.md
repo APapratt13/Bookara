@@ -1,4 +1,4 @@
-#Grishaverse - 3 serijala
+# Grishaverse - 3 serijala
 
 - **Autor:** leigh Bardugo
 - **Godina prvog izdanja:**  
