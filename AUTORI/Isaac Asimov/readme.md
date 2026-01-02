@@ -10,24 +10,26 @@ Da. Knjige **Sabrani roboti**, **Golo sunce**, **Roboti zore** i ostale navedene
 ---
 
 ## Popis knjiga – Robot serijal
+0. **Sabrani roboti**
+   - temelj
 
-1. **Ja, robot** (*I, Robot*)  
+2. **Ja, robot** (*I, Robot*)  
    – zbirka kratkih priča  
    – uvodi **Tri zakona robotike**
 
-2. **Čelične špilje** (*The Caves of Steel*)  
+3. **Čelične špilje** (*The Caves of Steel*)  
    – SF detektivski roman  
    – prvi roman s Elijahom Baleyjem i R. Daneelom Olivawom  
 
-3. **Golo sunce** (*The Naked Sun*)  
+4. **Golo sunce** (*The Naked Sun*)  
    – nastavak Čeličnih špilja  
    – istraživanje izoliranog društva i odnosa ljudi i robota  
 
-4. **Roboti zore** (*The Robots of Dawn*)  
+5. **Roboti zore** (*The Robots of Dawn*)  
    – politički i etički sukob oko robota  
    – produbljuje ulogu R. Daneela  
 
-5. **Roboti i Carstvo** (*Robots and Empire*)  
+6. **Roboti i Carstvo** (*Robots and Empire*)  
    – završetak Robot serijala  
    – izravna poveznica prema Galaktičkom Carstvu  
 
