@@ -9,6 +9,7 @@
 - [Hekatina škola - Rachel Hawkins](../../AUTORI/Rachel%20Hawkins/Hekatina%20škola)
 - [Njegova mračna građa - Phillip Pullman](../../AUTORI/Phillip%20Pullman/Njegova%20mračna%20građa)
 - [Temerarie - Naomi Novik](../../AUTORI/Naomi%20Novik/Temerarie)
+- [Deveta kuća - Leigh Bardugo](../../AUTORI/Leigh%20Bardugo/Deveta%20kuća)
 
 ## Slavenska mitologija
 - [Saga o vješcu - Andrzej Sapkowski](../../AUTORI/Andrzej%20Sapkowski/Saga%20o%20vješcu/)
