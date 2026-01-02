@@ -10,6 +10,7 @@
 - [Njegova mračna građa - Phillip Pullman](../../AUTORI/Phillip%20Pullman/Njegova%20mračna%20građa)
 - [Temerarie - Naomi Novik](../../AUTORI/Naomi%20Novik/Temerarie)
 - [Deveta kuća - Leigh Bardugo](../../AUTORI/Leigh%20Bardugo/Deveta%20kuća)
+- [Svijet J.R.R Tolkiena](../../AUTORI/J.R.R.%20Tolkien)
 
 ## Slavenska mitologija
 - [Saga o vješcu - Andrzej Sapkowski](../../AUTORI/Andrzej%20Sapkowski/Saga%20o%20vješcu/)
