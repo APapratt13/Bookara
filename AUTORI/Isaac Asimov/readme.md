@@ -11,7 +11,7 @@ Da. Knjige **Sabrani roboti**, **Golo sunce**, **Roboti zore** i ostale navedene
 
 ## Popis knjiga – Robot serijal
 0. **Sabrani roboti**
-   - temelj
+   –  temelj
 
 2. **Ja, robot** (*I, Robot*)  
    – zbirka kratkih priča  
