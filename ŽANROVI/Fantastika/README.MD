@@ -7,6 +7,7 @@
 - [Vampirska akademija - Richelle Mead](../../AUTORI/Richelle%20Mead/Vampirska%20akademija)
 - [Magisterium- Holly Black & Cassandra Clare](../../AUTORI/Holly%20Black%20&%20Cassandra%20Clare/Magisterium)
 - [Hekatina škola - Rachel Hawkins](../../AUTORI/Rachel%20Hawkins/Hekatina%20škola)
+- [Njegova mračna građa - Phillip Pullman](../../AUTORI/Phillip%20Pullman/Njegova%20mračna%20građa)
 
 ## Slavenska mitologija
 - [Saga o vješcu - Andrzej Sapkowski](../../AUTORI/Andrzej%20Sapkowski/Saga%20o%20vješcu/)
