@@ -1,2 +1,2 @@
 # Science Fiction
-- [Serijal o Robotima](../../AUTORI/Isaac%20Asimov/)
+- [Serijal o Robotima - Isaac Asimov](../../AUTORI/Isaac%20Asimov/)
