@@ -13,6 +13,7 @@
 - [Saga o vješcu - Andrzej Sapkowski](../../AUTORI/Andrzej%20Sapkowski/Saga%20o%20vješcu/)
 - [Zimska noć trilogija - Katherine Arden](../../AUTORI/Katherine%20Arden/Zimska%20noć%20trilogija)
 - [Iskorijenjena / Uprooted - Naomi Novik](../../AUTORI/Naomi%20Novik/Iskorijenjena)
+- [Grishaverse (3 serijala) - Leigh Bardugo](../../AUTORI/Leigh%20Bardugo/Grishaverse)
 
 ## Nordijska mitologija
 - [The Bloodswon Saga - John Gwynne](../../AUTORI/John%20Gwynne/Bloodsworn)
