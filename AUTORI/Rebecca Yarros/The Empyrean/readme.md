@@ -1,11 +1,11 @@
 # Naslov knjige
 
-**Autor:** Rebecca Yarros
-**Godina prvog izdanja:**  2023
-**Jezik:**  ENG
-**Format:** EPUB 
-**Status:** read  
-**Goodreads rating:** ★★★★☆ (4.57)  
+- **Autor:** Rebecca Yarros
+- **Godina prvog izdanja:**  2023
+- **Jezik:**  ENG & HRV
+- **Format:** EPUB 
+- **Status:** read  
+- **Goodreads rating:** ★★★★☆ (4.57)  
 
 ---
 
