@@ -1,11 +1,11 @@
-# Naslov knjige
+# Svijet J.R.R. Tolkiena
 
-- **Autor:** Ime Prezime  
-- **Godina prvog izdanja:**  
+- **Autor:** J.R.R. Tolkien
+- **Godina prvog izdanja:**  1937. --> Hobbit
 - **Jezik:**  
 - **Format:** EPUB  
 - **Status:** to-read  
-- **Goodreads rating:** ★★★★☆ (3.92)  
+- **Goodreads rating:** ★★★★☆ (4.32)  
 
 ---
 
