@@ -11,8 +11,8 @@
 - [Temerarie - Naomi Novik](../../AUTORI/Naomi%20Novik/Temerarie)
 - [Deveta kuća - Leigh Bardugo](../../AUTORI/Leigh%20Bardugo/Deveta%20kuća)
 - [Svijet J.R.R Tolkiena](../../AUTORI/J.R.R.%20Tolkien)
-- [The Faithful and The Fallen](../../AUTORI/John%20Gwynne/The%20Faithful%And%The%Fallen)
-- [Of Blood and Bone](../../AUTORI/John%20Gwynne/Of%20Blood%20And%20Bone)
+- [The Faithful and The Fallen - John Gwynne](../../AUTORI/John%20Gwynne/The%20Faithful%20And%20The%20Fallen)
+- [Of Blood and Bone - John Gwynne](../../AUTORI/John%20Gwynne/Of%20Blood%20And%20Bone)
 
 ## Slavenska mitologija
 - [Saga o vješcu - Andrzej Sapkowski](../../AUTORI/Andrzej%20Sapkowski/Saga%20o%20vješcu/)
